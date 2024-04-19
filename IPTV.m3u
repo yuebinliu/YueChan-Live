@@ -110,7 +110,7 @@ http://221.219.66.252:18888/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方",BRTV纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",BRTV卡酷少儿
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+http://221.219.66.252:18888/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="BRTV体育休闲[超清]" tvg-name="BRTV体育休闲[超清]" tvg-logo="https://epg.112114.xyz/logo/BRTV体育休闲.png" group-title="地方",BRTV体育休闲
 http://221.219.66.252:18888/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BRTV国际频道[超清]" tvg-name="BRTV国际频道[超清]" tvg-logo="https://epg.112114.xyz/logo/BRTV国际.png" group-title="地方",BRTV国际频道
