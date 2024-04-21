@@ -67,7 +67,7 @@ http://118.254.203.236:8888/rtp/239.76.254.62:9000
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰资讯" group-title="卫视",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/Phoenix3.png" group-title="卫视",凤凰香港
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" group-title="卫视",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1 group-title="卫视",翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
